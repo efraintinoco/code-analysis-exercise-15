@@ -19,14 +19,16 @@ function (person, petName){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
+|  Efrain = {name: "Efrain", dogs: [{name:"Princess", breed: "Pomeranian", age: 2}] }   |  {name:"Princess", breed: "Pomeranian", age: 2 }  | 
+|  Brenda = {name: "Brenda", dogs: [name: :"Thor", breed: "German Shepard", age:4 }] }      |  {name: :"Thor", breed: "German Shepard", age:4 } | 
 |       |        | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>
+      This function takes in two arguments, person and petName. This is a loop that iterates over properties of objects. In this case it is searching for a person name and matching it up with a pet name, when the return value is
+      true then it will return the dog info.</td>
   </tr>
 </table>
 
