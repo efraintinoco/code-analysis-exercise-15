@@ -1,4 +1,4 @@
-# Programming Exercise
+  # Programming Exercise
 
 Your task is to figure out how this code works.
 
@@ -19,8 +19,8 @@ function (person, petName){
 
 | Input | Output |
 | ----- | ------ |
-|  Efrain = {name: "Efrain", dogs: [{name: "Princess", breed: "Pomeranian", age: 2}] }   |  {name:"Princess", breed: "Pomeranian", age: 2 }  | 
-|  Brenda = {name: "Brenda", dogs: [{name: "Thor", breed: "German Shepard", age:4 }] }      |  {name: "Thor", breed: "German Shepard", age:4 } | 
+|  {name: "Efrain", dogs: [{name: "Princess", breed: "Pomeranian", age:2}, {name: "Rocky", breed: "Boxer", age: 10}],}, "Princess"   |  {name:"Princess", breed: "Pomeranian", age: 2 }  | 
+|  {name: "Brenda", dogs: [{name: "Thor", breed: "German Shepard", age:4,}, {name: "Luna", breed: "German Shepard", age: 3}], }, "Thor"     |  {name: "Thor", breed: "German Shepard", age:4 } | 
 |       |        | 
 
 <table>
