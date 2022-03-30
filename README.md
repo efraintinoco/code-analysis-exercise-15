@@ -19,8 +19,8 @@ function (person, petName){
 
 | Input | Output |
 | ----- | ------ |
-|  Efrain = {name: "Efrain", dogs: [{name:"Princess", breed: "Pomeranian", age: 2}] }   |  {name:"Princess", breed: "Pomeranian", age: 2 }  | 
-|  Brenda = {name: "Brenda", dogs: [name: :"Thor", breed: "German Shepard", age:4 }] }      |  {name: :"Thor", breed: "German Shepard", age:4 } | 
+|  Efrain = {name: "Efrain", dogs: [{name: "Princess", breed: "Pomeranian", age: 2}] }   |  {name:"Princess", breed: "Pomeranian", age: 2 }  | 
+|  Brenda = {name: "Brenda", dogs: [{name: "Thor", breed: "German Shepard", age:4 }] }      |  {name: "Thor", breed: "German Shepard", age:4 } | 
 |       |        | 
 
 <table>
